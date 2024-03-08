@@ -5,11 +5,9 @@
 ```markdown
 mindemap;
 
-# Mein schönes Beispiel 
+A[Mein schönes Beispiel]
 
-## Beispiel 1: Balkendiagramm
 
-```markdown
 | Obst       | Menge |
 |------------|-------|
 | Äpfel     | 20    |
