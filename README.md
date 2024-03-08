@@ -4,9 +4,8 @@
 
 ```markdown
 mindemap;
-der[tooop]
-```markdown
-# Mein schönes Diagramm
+
+# Mein schönes Beispiel 
 
 ## Beispiel 1: Balkendiagramm
 
